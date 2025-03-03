@@ -1,4 +1,4 @@
-**Privacy Policy**
+[**Privacy Policy**
 
 This privacy policy applies to the The Barber Lounge app (hereby referred to as "Application") for mobile devices that was created by Ozan Cocelli (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
@@ -70,3 +70,4 @@ By using the Application, you are consenting to the processing of your informati
 **Contact Us**
 
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at bookedtikcontact@gmail.com.
+](https://github.com/DigifyR/Barber-App-PrivacyPolicy/blob/main/README.md)
